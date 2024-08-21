@@ -1,1 +1,3 @@
 This is sample 1
+My name is rohan raj burnwal
+I am testing the merge on this file.
